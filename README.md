@@ -24,10 +24,6 @@ make install
 make test
 ```
 
-### Time to Implement
-
-1 Hour 30 Minutes
-
 ---
 
 ## Development Guidelines
